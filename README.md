@@ -1,3 +1,6 @@
+# BreadcrumbsEEG-ML-streaming-server
+
+## File Structure
 - data/: 원시(raw) 데이터, 전처리된(processed) 데이터, 모델(models), 결과(output) 등 데이터 관리를 위한 디렉토리입니다.<br/>
 - raw/: 원시 데이터 파일이 저장되는 디렉토리입니다.<br/>
 - processed/: 전처리된 데이터 파일이 저장되는 디렉토리입니다.<br/>
